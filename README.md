@@ -48,7 +48,8 @@ The goal of this project is to:
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](<img width="1129" height="810" alt="dashboard bi" src="https://github.com/user-attachments/assets/ea647f20-fbae-4387-9a1d-e1ba7bd94ed7" />
+)
 
 ---
 
